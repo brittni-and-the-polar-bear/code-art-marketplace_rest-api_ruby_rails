@@ -6,6 +6,26 @@ Gemfile.lock
 # RubyMine
 .idea/
 
+# Rails Directories
+# This list will be edited as we progress through the project
+app/
+bin/
+config/
+db/
+lib/
+public/
+storage/
+test/
+vendor/
+
+# Rails Files
+# This list will be edited as we progress through the project
+.dockerignore
+.gitattributes
+config.ru
+Dockerfile
+Rakefile
+
 # Created by Rails Project Generator
 # See https://help.github.com/articles/ignoring-files for more about ignoring files.
 #
