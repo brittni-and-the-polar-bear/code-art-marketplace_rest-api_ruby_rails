@@ -8,10 +8,11 @@ updates:
   - package-ecosystem: "bundler"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "daily"
     insecure-external-code-execution: "deny"
     commit-message:
       prefix: "dependabot gem update"
       include: "scope"
     reviewers:
-      - "brittni-and-the-polar-bear/bpb"
+      - "blwatkins"
+      - "azurepolarbear"
